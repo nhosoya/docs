@@ -40,7 +40,7 @@ versions:
 1. ターミナルから、ディレクトリを新しいリポジトリに変更します。
 
   ```shell
-  cd ハローワールド-ジャバスクリプトアクション
+  cd hello-world-javascript-action
   ```
 
 1. ターミナルから、`package.json`ファイルでディレクトリを初期化します。
